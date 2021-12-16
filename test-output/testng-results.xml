@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66151" started-at="2021-12-16T08:06:55Z" finished-at="2021-12-16T08:08:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66151" started-at="2021-12-16T08:06:55Z" finished-at="2021-12-16T08:08:01Z">
+      <class name="pom.irctc.testcases.TC004">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="beforeSuite" is-config="true" duration-ms="750" started-at="2021-12-16T13:36:54Z" finished-at="2021-12-16T13:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="beforeTest" is-config="true" duration-ms="16" started-at="2021-12-16T13:36:55Z" finished-at="2021-12-16T13:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="beforeMethod" is-config="true" duration-ms="8303" started-at="2021-12-16T13:36:55Z" finished-at="2021-12-16T13:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-12-16T13:36:55Z" finished-at="2021-12-16T13:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="hotelBookingOtpValidation()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="hotelBookingOtpValidation" duration-ms="56856" started-at="2021-12-16T13:37:03Z" finished-at="2021-12-16T13:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBookingOtpValidation -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="afterMethod" is-config="true" duration-ms="975" started-at="2021-12-16T13:38:00Z" finished-at="2021-12-16T13:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-12-16T13:38:01Z" finished-at="2021-12-16T13:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-12-16T13:38:01Z" finished-at="2021-12-16T13:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:pom.irctc.testcases.TC004@3498ed]" name="afterSuite" is-config="true" duration-ms="677" started-at="2021-12-16T13:38:01Z" finished-at="2021-12-16T13:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- pom.irctc.testcases.TC004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
